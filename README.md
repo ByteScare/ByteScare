@@ -59,49 +59,53 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/stackexchange.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/redhat.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/googlecloud.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/alibabacloud.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/amazonaws.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/apache.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/openstack.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/3m.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/42.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/accenture.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/siemens.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/bmcsoftware.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/canonical.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/autodesk.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/redhat.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/atlassian.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/wireshark.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/valve.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/webauthn.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/redis.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/apachecassandra.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/apachehadoop.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/postgresql.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/renovatebot.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/oracle.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/owasp.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/tmux.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/torproject.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/pulumi.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/bitcoin.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/alpinelinux.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/ansible.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/apachekafka.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/openstreetmap.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/cmake.svg" height="40" width="40" />
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/stackexchange.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/redhat.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/googlecloud.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/alibabacloud.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/amazonaws.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/apache.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/openstack.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/3m.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/42.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/accenture.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/siemens.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/bmcsoftware.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/canonical.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/autodesk.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/redhat.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/atlassian.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/wireshark.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/valve.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/webauthn.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/redis.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/apachecassandra.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/apachehadoop.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/postgresql.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/renovatebot.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/oracle.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/owasp.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/tmux.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/torproject.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/pulumi.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/bitcoin.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/alpinelinux.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/ansible.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/apachekafka.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/openstreetmap.svg" height="40" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/cmake.svg" height="40" width="40" />
+      </a>
     </td>
   </tr>
 </table>
 
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ByteScare&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteScare&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&hide="/>
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ByteScare&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ByteScare&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&hide="/>
+  </a>
 </div>
 
   
